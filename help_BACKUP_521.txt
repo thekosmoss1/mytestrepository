@@ -1,0 +1,6 @@
+"helo"
+<<<<<<< HEAD
+"helo helo"
+=======
+"helo helo helo"
+>>>>>>> serega3
